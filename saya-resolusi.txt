@@ -2,5 +2,5 @@ wpu resolusi
 - konsisten untuk belajar setiap hari
 - membuat jadwal untuk belajar dengan baik
 - melakukan praktek berbeda setiap materi
-- bercita cita menjadi fullstack dev
 - perbanyak belajar saat gabut melanda
+- bercita cita menjadi software enginer
